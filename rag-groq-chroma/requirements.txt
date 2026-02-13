@@ -1,0 +1,16 @@
+# Environment
+python-dotenv
+
+# HuggingFace
+datasets
+sentence-transformers
+torch
+
+# Vector DB
+chromadb
+
+# LLM
+groq
+
+# Utils
+tqdm
